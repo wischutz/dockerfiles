@@ -16,6 +16,7 @@ net-tools \
 netcat \
 nikto \
 curl \
+openvpn \
 wfuzz \
 wget 
 
