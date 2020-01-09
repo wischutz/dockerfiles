@@ -17,6 +17,7 @@ netcat \
 nikto \
 curl \
 openvpn \
+tcpdump \
 wfuzz \
 wget 
 
