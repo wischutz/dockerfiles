@@ -12,6 +12,7 @@ ca-certificates \
 sslscan \
 host \
 hping3 \
+nano \
 net-tools \
 netcat \
 nikto \
