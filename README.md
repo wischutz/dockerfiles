@@ -1,3 +1,3 @@
 # dockerfiles
 
-Dockerfile to build an image of latest kali official release end some tools for pentest.
+Dockerfiles to build images to help to implement containers for different applications.
