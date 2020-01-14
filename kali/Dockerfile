@@ -10,6 +10,7 @@ apt-utils \
 git \
 ca-certificates \
 sslscan \
+iputils-ping \
 host \
 hping3 \
 nano \
